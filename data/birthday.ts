@@ -329,6 +329,22 @@ Nice mutlu yıllara! 🙌`,
       signature: "Onur Hoca",
     },
     {
+      id: "ayse",
+      title: "Ayşe",
+      emoji: "🩵",
+      seal: "#6aa9d6",
+      message: `Dünyanın en karizma abisiii! 😎✨
+
+Doğum günün kutlu olsun abimm! 🎂🎉
+
+Ne zaman kendimi kötü hissetsem, varlığını her zaman hissettirdin. 🤗
+
+Seni çok seviyorum, her şeyin en iyisini hak ediyorsun. 🌟 Ben senin her zaman yanındayım abi, bunu da unutma! 💪
+
+İyi ki doğdun, iyi ki varsın. 🩵🩵`,
+      signature: "Ayşe",
+    },
+    {
       id: "serdem",
       title: "Serdem",
       emoji: "🎈",
