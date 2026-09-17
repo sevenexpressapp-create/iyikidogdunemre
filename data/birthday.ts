@@ -265,6 +265,26 @@ Nice yaşlara kardeşim! 🎂`,
       signature: "Yusuf Abi",
     },
     {
+      id: "furkan",
+      title: "Kardeşin Furkan",
+      emoji: "🫶",
+      seal: "#7a3f6b",
+      message: `Canım abim, 🤗
+
+İnsanın birine “abi” demesi için illa aynı kandan gelmesi gerekmez. Bizim gönülden gelen, çok başka bir bağımız var. 🤍
+
+İyi günümde de kötü günümde de hep yanımda olduğunu hissettiğim, hayatımda yeri bambaşka olan güzel insan… 🙏 Varlığın bana her zaman güç ve güven veriyor. 💪
+
+İyi ki varsın, iyi ki yollarımız kesişmiş. 🍀
+
+İnşallah beraber daha nice güzel senelerimiz, birlikte güleceğimiz nice güzel anılarımız olur. ✨📸
+
+Yeni yaşın sana sağlık, huzur ve gönlünden geçen tüm güzellikleri getirsin. 🎂
+
+İyi ki doğmuşsun abim! ❤️`,
+      signature: "Kardeşin Furkan",
+    },
+    {
       id: "baki",
       title: "Baki Hoca",
       emoji: "🌿",
