@@ -63,7 +63,18 @@ Seni çok seviyorum. ❤️`,
       title: "Kızın",
       emoji: "🌸",
       seal: "#c7568f",
-      message: "",
+      message: `Canım babam, 💕
+
+Doğum günün kutlu olsun! 🎂🎉
+
+Sen dünyanın en iyi babasısın. 🌍👑 Bunu herkes bilsin istiyorum!
+
+İyi ki benim babamsın. 🥰 Seni çok ama çok seviyorum, hem de kocaman! 🤗💖
+
+Allah seni hep korusun. 🤲 Hep yanımda ol, olur mu babacığım? 🌸
+
+Mutlu yıllar babam! 🎈✨`,
+      signature: "Kızın 🌸",
     },
     {
       id: "sevgili",
