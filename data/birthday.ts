@@ -128,6 +128,114 @@ Seni çok seviyorum. 💜
       signature: "Kız kardeşin Esra",
     },
     {
+      id: "serhat",
+      title: "Kardeşin Serhat",
+      emoji: "🤝",
+      seal: "#8a6a2f",
+      message: `Kardeşim, 🤗
+
+Bugün senin günün, doğum günün kutlu olsun! 🎉
+
+Hayatta bazı insanlar sonradan girer ama sanki hep oradaymış gibi olur. Sen benim için tam olarak öylesin. Kan bağımız yok belki ama kardeşlik dediğin şey tam da bu: iyi günde yan yana gülmek, zor günde omuz omuza durmak. 💪
+
+Aynı hayallere kafa yorduğumuz, aynı dertleri paylaştığımız, aynı şeylere kahkahalarla güldüğümüz her an için teşekkür ederim. Yanımda olduğunu bilmek bana her zaman güç veriyor. 🙏
+
+Yeni yaşın sana sağlık, huzur, bereket ve bol kahkaha getirsin. Hedeflediğin ne varsa bir bir gerçek olsun; ben de her adımında yanında olacağım, bunu bil. 🚀
+
+İyi ki doğdun, iyi ki yollarımız kesişti. 🍀
+
+Nice mutlu yaşlara kardeşim! 🎂✨`,
+      signature: "Kardeşin Serhat",
+    },
+    {
+      id: "dilan",
+      title: "Dilan",
+      emoji: "🌺",
+      seal: "#c2566b",
+      message: `Emre, 🎉
+
+Doğum günün kutlu olsun! İyi ki doğdun, iyi ki varsın. 🤗
+
+Serhat'ın yanında hep böyle güvenilir, gönlü güzel bir dostun olduğunu bilmek bana da büyük bir huzur veriyor. Sen de artık bizim ailemizin bir parçasısın. 🤍
+
+Yeni yaşın sana sağlık, huzur, bereket ve bol bol mutluluk getirsin. 🍀 Sevdiklerinle birlikte, yüzünün hep güldüğü nice güzel yıllar geçirmeni diliyorum. ✨
+
+Nice mutlu yaşlara! 🎂🌺`,
+      signature: "Dilan",
+    },
+    {
+      id: "asil",
+      title: "Asil",
+      emoji: "🧸",
+      seal: "#3d9a6e",
+      message: `Emre amcaaa! 🎈
+
+İyi ki doğdun! 🎉 Babam söyledi, bugün senin doğum gününmüş. Ben de sana mektup yazmak istedim. ✏️
+
+Kocaman bir pasta ye ama bana da bir dilim ayır, tamam mı? 🍰😋
+
+Mumları üflerken dilek tutmayı unutma! Ben de senin için dilek tuttum: hep mutlu ol, hiç hasta olma, bol bol oyun oyna! 🧸⚽
+
+Seni şu kadaaaar çok seviyorum! 🤗 (Kollarımı sonuna kadar açtım.)
+
+Mutlu yıllar Emre amca! 🎂🥳`,
+      signature: "Asil 🧸",
+    },
+    {
+      id: "yusuf-ortak",
+      title: "Kardeşin Yusuf",
+      emoji: "🫂",
+      seal: "#5b6b2f",
+      message: `Canım kardeşim, 🤗
+
+Bugün senin günün, doğum günün kutlu olsun! 🎉
+
+Allah sana hayırlı, huzurlu, mutlu ve sağlıklı bir ömür bahşetsin. 🤲 Gönlünden geçen ne varsa en güzel şekilde nasip etsin. 🌟
+
+Yeni yaşın; sevdiklerinle ve seni sevenlerle birlikte sana huzur, mutluluk ve bolca güzel anı getirsin. 🍀 Omuz omuza yürüdüğümüz bu yolda nice güzel günleri de yan yana görelim inşallah. ✨
+
+Her zaman yüzün gülsün, yolun açık, bahtın güzel olsun. 😊🌈
+
+İyi ki doğdun canım kardeşim. ❤️🎂`,
+      signature: "Kardeşin Yusuf",
+    },
+    {
+      id: "gizem",
+      title: "Gizem",
+      emoji: "🌼",
+      seal: "#6d7fb8",
+      message: `Emre, 🎉
+
+Doğum günün kutlu olsun! Nice güzel yaşlar diliyorum. 🎂
+
+Allah sana hayırlı, uzun ve bereketli ömürler nasip etsin. 🤲 Her yeni yaşın bir öncekinden daha güzel, daha huzurlu geçsin. 🍀
+
+Sevdiklerinle birlikte, yüzünün hep güldüğü, gönlünün hep ferah olduğu huzurlu bir ömrün olsun inşallah. 🤍✨
+
+Nice mutlu yaşlara! 🌼`,
+      signature: "Gizem",
+    },
+    {
+      id: "benay",
+      title: "Benay",
+      emoji: "🦄",
+      seal: "#9c6bd0",
+      message: `Emre amca, merhabaaa! 👋🦄
+
+Bugün senin doğum günün! İyi ki doğdun! 🎉🎂
+
+Sana kocaman bir resim çizmek istedim ama kâğıda sığmadı. O yüzden sana mektup yazdım. 🖍️🌈
+
+Doğum gününde balonların hiç patlamasın, pastan da çikolatalı olsun! 🎈🍫
+
+Hep gülümse, hep mutlu ol. Çünkü sen gülünce herkes gülüyor! 😄
+
+Seni çoook seviyorum! 💕
+
+Mutlu yıllar! 🥳✨`,
+      signature: "Benay 🦄",
+    },
+    {
       id: "yusuf",
       title: "Yusuf Abi",
       emoji: "🌟",
@@ -230,114 +338,6 @@ Allah bizi senin başından eksik etmesin. 🤲🎂`,
 
 Yeni yaşın sana sağlık, huzur ve bolca mutluluk getirir umarım. 🍀✨🎂`,
       signature: "Sıla",
-    },
-    {
-      id: "serhat",
-      title: "Kardeşin Serhat",
-      emoji: "🤝",
-      seal: "#8a6a2f",
-      message: `Kardeşim, 🤗
-
-Bugün senin günün, doğum günün kutlu olsun! 🎉
-
-Hayatta bazı insanlar sonradan girer ama sanki hep oradaymış gibi olur. Sen benim için tam olarak öylesin. Kan bağımız yok belki ama kardeşlik dediğin şey tam da bu: iyi günde yan yana gülmek, zor günde omuz omuza durmak. 💪
-
-Aynı hayallere kafa yorduğumuz, aynı dertleri paylaştığımız, aynı şeylere kahkahalarla güldüğümüz her an için teşekkür ederim. Yanımda olduğunu bilmek bana her zaman güç veriyor. 🙏
-
-Yeni yaşın sana sağlık, huzur, bereket ve bol kahkaha getirsin. Hedeflediğin ne varsa bir bir gerçek olsun; ben de her adımında yanında olacağım, bunu bil. 🚀
-
-İyi ki doğdun, iyi ki yollarımız kesişti. 🍀
-
-Nice mutlu yaşlara kardeşim! 🎂✨`,
-      signature: "Kardeşin Serhat",
-    },
-    {
-      id: "yusuf-ortak",
-      title: "Kardeşin Yusuf",
-      emoji: "🫂",
-      seal: "#5b6b2f",
-      message: `Canım kardeşim, 🤗
-
-Bugün senin günün, doğum günün kutlu olsun! 🎉
-
-Allah sana hayırlı, huzurlu, mutlu ve sağlıklı bir ömür bahşetsin. 🤲 Gönlünden geçen ne varsa en güzel şekilde nasip etsin. 🌟
-
-Yeni yaşın; sevdiklerinle ve seni sevenlerle birlikte sana huzur, mutluluk ve bolca güzel anı getirsin. 🍀 Omuz omuza yürüdüğümüz bu yolda nice güzel günleri de yan yana görelim inşallah. ✨
-
-Her zaman yüzün gülsün, yolun açık, bahtın güzel olsun. 😊🌈
-
-İyi ki doğdun canım kardeşim. ❤️🎂`,
-      signature: "Kardeşin Yusuf",
-    },
-    {
-      id: "gizem",
-      title: "Gizem",
-      emoji: "🌼",
-      seal: "#6d7fb8",
-      message: `Emre, 🎉
-
-Doğum günün kutlu olsun! Nice güzel yaşlar diliyorum. 🎂
-
-Allah sana hayırlı, uzun ve bereketli ömürler nasip etsin. 🤲 Her yeni yaşın bir öncekinden daha güzel, daha huzurlu geçsin. 🍀
-
-Sevdiklerinle birlikte, yüzünün hep güldüğü, gönlünün hep ferah olduğu huzurlu bir ömrün olsun inşallah. 🤍✨
-
-Nice mutlu yaşlara! 🌼`,
-      signature: "Gizem",
-    },
-    {
-      id: "benay",
-      title: "Benay",
-      emoji: "🦄",
-      seal: "#9c6bd0",
-      message: `Emre amca, merhabaaa! 👋🦄
-
-Bugün senin doğum günün! İyi ki doğdun! 🎉🎂
-
-Sana kocaman bir resim çizmek istedim ama kâğıda sığmadı. O yüzden sana mektup yazdım. 🖍️🌈
-
-Doğum gününde balonların hiç patlamasın, pastan da çikolatalı olsun! 🎈🍫
-
-Hep gülümse, hep mutlu ol. Çünkü sen gülünce herkes gülüyor! 😄
-
-Seni çoook seviyorum! 💕
-
-Mutlu yıllar! 🥳✨`,
-      signature: "Benay 🦄",
-    },
-    {
-      id: "dilan",
-      title: "Dilan",
-      emoji: "🌺",
-      seal: "#c2566b",
-      message: `Emre, 🎉
-
-Doğum günün kutlu olsun! İyi ki doğdun, iyi ki varsın. 🤗
-
-Serhat'ın yanında hep böyle güvenilir, gönlü güzel bir dostun olduğunu bilmek bana da büyük bir huzur veriyor. Sen de artık bizim ailemizin bir parçasısın. 🤍
-
-Yeni yaşın sana sağlık, huzur, bereket ve bol bol mutluluk getirsin. 🍀 Sevdiklerinle birlikte, yüzünün hep güldüğü nice güzel yıllar geçirmeni diliyorum. ✨
-
-Nice mutlu yaşlara! 🎂🌺`,
-      signature: "Dilan",
-    },
-    {
-      id: "asil",
-      title: "Asil",
-      emoji: "🧸",
-      seal: "#3d9a6e",
-      message: `Emre amcaaa! 🎈
-
-İyi ki doğdun! 🎉 Babam söyledi, bugün senin doğum gününmüş. Ben de sana mektup yazmak istedim. ✏️
-
-Kocaman bir pasta ye ama bana da bir dilim ayır, tamam mı? 🍰😋
-
-Mumları üflerken dilek tutmayı unutma! Ben de senin için dilek tuttum: hep mutlu ol, hiç hasta olma, bol bol oyun oyna! 🧸⚽
-
-Seni şu kadaaaar çok seviyorum! 🤗 (Kollarımı sonuna kadar açtım.)
-
-Mutlu yıllar Emre amca! 🎂🥳`,
-      signature: "Asil 🧸",
     },
   ] as Letter[],
 
